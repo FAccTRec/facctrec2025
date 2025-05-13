@@ -4,9 +4,9 @@ layout: page
 permlink: /cfp/
 ---
 
-The 7th FAccTRec Workshop on Responsible Recommendation at RecSys 2024 is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
+The 8th FAccTRec Workshop on Responsible Recommendation at RecSys 2025 is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
 
-We encourage in-person participation, but remote presentation will be available for authors who cannot travel to Bari.
+We encourage in-person participation, but remote presentation will be available for authors who cannot travel to Prague.
 
 ## Topics of Interest
 
@@ -19,7 +19,7 @@ FAccTRec stands for Fairness, Accountability, and Transparency in Recommender Sy
 - **Safety:** How can a recommender system be manipulated by adversarial parties? What is required to be resilient to such manipulation? How does private or sensitive information leak when searching or making recommendations? How to avoid such leakage? Can fair recommendations change users’ opinions?
 - **Impact:** In what ways has FAccT research on recommender systems, including fairness-aware recommendation methods, been impactful in industry or in research?
 
-With FAccTRec located in Europe this year, submissions connecting these topics to recent developments in EU regulation including the Digital Markets Act, Digital Services Act, and AI Act are especially encouraged.
+While we welcome submissions on all aspects of socially-responsible recommendation, for 2025 we highlight recent changes in the recommendation and responsibility landscape that impact how responsibility concerns are defined, studied, and pursued, including (1) the increasing importance of pre-trained models in recommendation, including LLMs as well as other existing and possible pre-trained models; and (2) shifting regulatory, organizational, and political landscapes such as advanced regulation, political opposition to social responsibility concerns, and organizational de-prioritization.
 
 ## Submission Guidelines
 
@@ -48,13 +48,13 @@ In a case of position papers, the number of pages should be limited to three (3)
 
 ### Submission
 
-Papers should be submitted from [EasyChair](https://easychair.org/my/conference?conf=recsys2024workshops).  Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted from [EasyChair](https://easychair.org/my/conference?conf=recsys2025workshops).  Please do not forget to choose your type of submission: Position or Research.
 
 ### Important Dates
 
-* <span style="text-decoration: line-through;">2024-08-02</span> 2024-08-09: Paper submission deadline
-* <span style="text-decoration: line-through;">2024-08-27</span> 2024-09-03: Author notification
-* <span style="text-decoration: line-through;">2024-09-10</span> 2024-09-17: Final version upload
-* 2024-10-14: Workshop (full day)
+* <span style="text-decoration: line-through;">2025-07-10</span> 2025-07-10: Paper submission deadline
+* <span style="text-decoration: line-through;">2025-08-06</span> 2025-08-06: Author notification
+* <span style="text-decoration: line-through;">2025-08-20</span> 2025-08-20: Final version upload
+* The RecSys conference is held 22nd–26th September 2025 in Prague, Czech Republic
 
 TIMEZONE: Anywhere On Earth (UTC-12)
