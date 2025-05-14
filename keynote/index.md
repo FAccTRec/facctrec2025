@@ -1,5 +1,5 @@
 ---
-title: Keynote Speaker
+title: Keynote
 layout: page
 permlink: /keynote/
 ---
