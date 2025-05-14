@@ -4,6 +4,6 @@ layout: page
 permlink: /keynote/
 ---
 
-**Title:** Keynote speaker TBA
+Keynote speaker TBA
 
 
