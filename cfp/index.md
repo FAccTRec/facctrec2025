@@ -52,9 +52,9 @@ Papers should be submitted from [EasyChair](https://easychair.org/my/conference?
 
 ### Important Dates
 
-* <span style="text-decoration: line-through;">2025-07-10</span> 2025-07-10: Paper submission deadline
-* <span style="text-decoration: line-through;">2025-08-06</span> 2025-08-06: Author notification
-* <span style="text-decoration: line-through;">2025-08-20</span> 2025-08-20: Final version upload
+* 2025-07-10: Paper submission deadline
+* 2025-08-06: Author notification
+* 2025-08-20: Final version upload
 * The RecSys conference is held 22nd–26th September 2025 in Prague, Czech Republic
 
 TIMEZONE: Anywhere On Earth (UTC-12)
