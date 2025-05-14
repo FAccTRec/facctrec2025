@@ -28,7 +28,7 @@ We encourage submissions on the above topics. No official proceedings will be pu
 Manuscripts must be submitted through EasyChair and will be reviewed by our program committee. The review process is single-blind; the authors’ names do not need to be anonymized. Presentations will be held in an oral or a poster style.
 
 ### Position Papers
-Position papers address one or more of the above topics of interests or practical issues in building responsible recommendations. These could be either research systems or production systems in the industry.Position papers connecting FAccTRec topics to recent events or public discussions are also welcome.
+Position papers address one or more of the above topics of interests or practical issues in building responsible recommendations. These could be either research systems or production systems in the industry. Position papers connecting FAccTRec topics to recent events or public discussions are also welcome.
 
 ### Research Papers
 
@@ -48,11 +48,11 @@ In a case of position papers, the number of pages should be limited to three (3)
 
 ### Submission
 
-Papers should be submitted from [EasyChair](https://easychair.org/my/conference?conf=recsys2025workshops).  Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted on EasyChair (link TBA).  Please do not forget to choose your type of submission: Position or Research.
 
 ### Important Dates
 
-* 2025-07-10: Paper submission deadline
+* **2025-07-10: Paper submission deadline**
 * 2025-08-06: Author notification
 * 2025-08-20: Final version upload
 * The RecSys conference is held 22nd–26th September 2025 in Prague, Czech Republic
