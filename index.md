@@ -19,7 +19,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 * 2025-07-10: Paper submission deadline
 * 2025-08-06: Author notification
 * 2025-08-20: Final version upload
-* The RecSys conference is held 22nd–26th September 2025 in Prague, Czech Republic
+* 2025-09-26 morning: Workshop (half day)
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
