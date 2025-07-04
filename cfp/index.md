@@ -50,7 +50,7 @@ In a case of position papers, the number of pages should be limited to three (3)
 
 ### Submission
 
-Papers should be submitted on EasyChair (link TBA).  Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted on [EasyChair](https://easychair.org/conferences](https://easychair.org/conferences?conf=recsys2025workshops).  Please do not forget to choose your type of submission: Position or Research.
 
 ### Important Dates
 
