@@ -27,7 +27,7 @@ While we welcome submissions on all aspects of socially-responsible recommendati
 
 We encourage submissions on the above topics. No official proceedings will be published because the focus of this workshop is a discussion about the directions to build and manage responsible recommender systems and provide feedback on early-stage research. All accepted papers’ manuscripts will be expected to be posted on arXiv.org by the authors. We allow manuscripts that have already been published or are currently submitted to another venue, so long as arXiv publication is compatible with that venue’s requirements; already-published manuscripts should be accompanied by a cover abstract justifying their contribution specifically to FAccTRec.
 
-Manuscripts must be submitted through [[EasyChair>[https://easychair.org/conferences](https://easychair.org/conferences)]] and will be reviewed by our program committee. The review process is single-blind; the authors’ names do not need to be anonymized. Presentations will be held in an oral or a poster style.
+Manuscripts must be submitted through [[EasyChair>[https://easychair.org/conferences](https://easychair.org/conferences?conf=recsys2025workshops)]] and will be reviewed by our program committee. The review process is single-blind; the authors’ names do not need to be anonymized. Presentations will be held in an oral or a poster style.
 
 ### Position Papers
 Position papers address one or more of the above topics of interests or practical issues in building responsible recommendations. These could be either research systems or production systems in the industry. Position papers connecting FAccTRec topics to recent events or public discussions are also welcome.
