@@ -4,7 +4,7 @@ layout: page
 permlink: /
 ---
 
-* <span style="text-decoration: line-through;"><</span>apan style="color: red">2025-07-10</span>2027-07-17: Paper submission deadline (extended)
+* <span style="text-decoration: line-through;">2025-07-10</span> <span style="color: red">2027-07-17</span>: Paper submission deadline (extended)
 * Submission Site: [https://easychair.org/conferences?conf=recsys2025workshops](https://easychair.org/conferences?conf=recsys2025workshops)
 * [Call for Papers]({{ '/cfp/' | relative_url }})
 
