@@ -4,6 +4,7 @@ layout: page
 permlink: /cfp/
 ---
 
+- <span style="text-decoration: line-through;">2025-07-10</span> <span style="color: red">2025-07-17</span>: Paper submission deadline (extended)
 - Submission Site: [https://easychair.org/conferences?conf=recsys2025workshops](https://easychair.org/conferences?conf=recsys2025workshops)
 
 The 8th FAccTRec Workshop on Responsible Recommendation at RecSys 2025 is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
@@ -54,9 +55,9 @@ Papers should be submitted on [EasyChair](https://easychair.org/conferences](htt
 
 ### Important Dates
 
-* **2025-07-10: Paper submission deadline**
-* 2025-08-06: Author notification
-* 2025-08-20: Final version upload
-* The RecSys conference is held 22nd–26th September 2025 in Prague, Czech Republic
+- <span style="text-decoration: line-through;">2025-07-10</span> 2025-07-17: Paper submission deadline
+- <span style="text-decoration: line-through;">2025-08-06</span> 2025-08-13: Author notification
+- <span style="text-decoration: line-through;">2025-08-20</span> 2025-08-27: Final version upload
+- The RecSys conference is held 22nd–26th September 2025 in Prague, Czech Republic
 
 TIMEZONE: Anywhere On Earth (UTC-12)
