@@ -18,7 +18,7 @@ long presentation = 20 mins; short presentation = 10 mins
 Patlak, Blake Chambers, Theodora Skeadas, Tues Day, Kinglsey Owadara and Aayush Dhanotiya (short)
 * [A Case Study of Balanced Query Recommendation on Wikipedia](https://arxiv.org/abs/2508.20399) (short)
 	* Harshit Mishra and Sucheta Soundarajan
-* Keynote:
+* Keynote: [Title TBA]({{ "../keynote/" | relative_url }})
 	* Asia Biega (Max Planck Institute for Security and Privacy)
 
 ## Session 2: on-site (On-line; 11:00–12:30 CEST, 09:00–10:30 UTC)
