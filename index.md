@@ -9,6 +9,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## What's New
 
+* 2025-09-10: [Keynote by Asia Biega]({{ "/keynote/" | relative_url }})
 * 2025-08-20: [workshop schedule]({{ "/program/" | relative_url }})
 * 2025-05-14: the CFP is available
 * <a rel="me" href="https://recsys.social/@FAccTRec">Follow us on Mastodon</a>
