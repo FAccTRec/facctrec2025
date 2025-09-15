@@ -24,16 +24,16 @@ Patlak, Blake Chambers, Theodora Skeadas, Tues Day, Kinglsey Owadara and Aayush 
 
 ## Session 2: on-site (On-line; 11:00–12:30 CEST, 09:00–10:30 UTC)
 
+* Envy-free but Still Unfair: EF1 in Personalized Recommendation (short)
+	* Amanda Aird, Ben Armstrong, Robin Burke and Nicholas Mattei
+* Fairness for niche users and providers: algorithmic choice and profile portability (short)
+	* Elizabeth McKinnie, Anas Buhayh, Clement Canel and Robin Burke
 * Without Fidelity, Explanations Are Just Stories: Rethinking Evaluation in Explainable Recommender Systems (long)
 	* Noam Koenigstein
 * [Towards a Real-World Aligned Benchmark for Unlearning in Recommender Systems](https://arxiv.org/abs/2508.17076) (long)
 	* Pierre Sicco Lubitzsch, Olga Ovcharenko, Hao Chen, Maarten de Rijke and Sebastian Schelter
 * [Bias Mitigation for AI-Feedback Loops in Recommender Systems: A Systematic Literature Review and Taxonomy](https://arxiv.org/abs/2509.00109) (long)
 	* Theodor Stoecker, Samed Bayer and Ingo Weber
-* Envy-free but Still Unfair: EF1 in Personalized Recommendation (short)
-	* Amanda Aird, Ben Armstrong, Robin Burke and Nicholas Mattei
-* Fairness for niche users and providers: algorithmic choice and profile portability (short)
-	* Elizabeth McKinnie, Anas Buhayh, Clement Canel and Robin Burke
 * Closing
 
 
