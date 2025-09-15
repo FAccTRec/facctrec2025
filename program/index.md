@@ -24,7 +24,7 @@ Patlak, Blake Chambers, Theodora Skeadas, Tues Day, Kinglsey Owadara and Aayush 
 
 ## Session 2: on-site (On-line; 11:00–12:30 CEST, 09:00–10:30 UTC)
 
-* Envy-free but Still Unfair: EF1 in Personalized Recommendation (short)
+* [[Envy-free but Still Unfair: EF1 in Personalized Recommendation>https://arxiv.org/abs/2509.09037]] (short)
 	* Amanda Aird, Ben Armstrong, Robin Burke and Nicholas Mattei
 * Fairness for niche users and providers: algorithmic choice and profile portability (short)
 	* Elizabeth McKinnie, Anas Buhayh, Clement Canel and Robin Burke
