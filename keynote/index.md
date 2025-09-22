@@ -4,8 +4,7 @@ layout: page
 permlink: /keynote/
 ---
 
-**From regulations to implementations: Building information access systems in the public interest
-**
+**From regulations to implementations: Building information access systems in the public interest**
 
 by [Asia Biega](https://asiabiega.github.io/) (Max Planck Institute for Security and Privacy)
 
