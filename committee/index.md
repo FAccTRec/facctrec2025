@@ -64,5 +64,16 @@ permlink: /committee/
 ## Program Committee
 {:style="clear: both"}
 
-TBA
+* Lex Beattie
+* Ludovico Boratto
+* Eelco Herder
+* Daniel Kluver
+* Bart Knijnenburg
+* Mirko Marras
+* Olasehinde Omolayo
+* Manel Slokom
+* Jessie Smith
+* Christoph Trattner
+* Martijn Willemsen
+* Ke Yang
 
