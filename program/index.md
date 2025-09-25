@@ -13,7 +13,7 @@ long presentation = 20 mins; short presentation = 10 mins
 * Opening (10min)
 * [Reading Between the Lines: A Study of Thematic Bias in Book Recommender Systems](https://arxiv.org/abs/2508.15643) (long)
 	* Nityaa Kalra and Savvina Daniil
-* Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems (short)
+* [Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems](https://arxiv.org/abs/2509.20099) (short)
 	* Wm. Matthew Kennedy, Nishanshi Atulkumar Shukla, Cigdem
 Patlak, Blake Chambers, Theodora Skeadas, Tues Day, Kinglsey Owadara and Aayush Dhanotiya (short)
 * [A Case Study of Balanced Query Recommendation on Wikipedia](https://arxiv.org/abs/2508.20399) (short)
