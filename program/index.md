@@ -10,7 +10,7 @@ long presentation = 20 mins; short presentation = 10 mins
 
 ## Session 1: remote (On-site; 08:30–10:30 CEST, 06:30–08:30 UTC)
 
-* Opening (10min)
+* Opening (10min) {[slide](opening.pdf)}
 * [Reading Between the Lines: A Study of Thematic Bias in Book Recommender Systems](https://arxiv.org/abs/2508.15643) (long)
 	* Nityaa Kalra and Savvina Daniil
 * [Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems](https://arxiv.org/abs/2509.20099) (short)
