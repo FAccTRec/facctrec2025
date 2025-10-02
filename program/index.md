@@ -26,7 +26,7 @@ Patlak, Blake Chambers, Theodora Skeadas, Tues Day, Kinglsey Owadara and Aayush 
 
 * [Envy-free but Still Unfair: EF1 in Personalized Recommendation](https://arxiv.org/abs/2509.09037) (short)
 	* Amanda Aird, Ben Armstrong, Robin Burke and Nicholas Mattei
-* Fairness for niche users and providers: algorithmic choice and profile portability (short)
+* [Fairness for niche users and providers: algorithmic choice and profile portability](https://arxiv.org/abs/2509.22660) (short)
 	* Elizabeth McKinnie, Anas Buhayh, Clement Canel and Robin Burke
 * [Without Fidelity, Explanations Are Just Stories: Rethinking Evaluation in Explainable Recommender Systems](https://drive.google.com/file/d/1KJBAfljnV4YXJv1V1HVDZ_38xXEdydi3/view?usp=sharing) (long)
 	* Noam Koenigstein
